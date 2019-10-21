@@ -26,7 +26,7 @@ EasyProcess==0.2.3
 enum34==1.1.6
 execnet==1.4.1
 html5lib==0.999
-httpie==0.9.9
+httpie==1.0.3
 idna==2.5
 iniparse==0.4
 ipaddress==1.0.18
