@@ -30,7 +30,7 @@ httpie==0.9.9
 idna==2.5
 iniparse==0.4
 ipaddress==1.0.18
-Jinja2==2.9.5
+Jinja2==2.11.3
 jsonpath-rw==1.4.0
 lxml==3.8.0
 MarkupSafe==1.0
