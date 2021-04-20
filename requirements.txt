@@ -48,7 +48,7 @@ ply==3.10
 progressbar33==2.4
 psutil==5.2.2
 psycopg2==2.7.1
-py==1.4.34
+py==1.10.0
 py2-ipaddress==3.4.1
 pyasn1==0.2.3
 pycparser==2.18
